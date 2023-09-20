@@ -158,6 +158,11 @@ export default function Header() {
                   </Link>
                 </li>
                 <li>
+                  <Link className="nav-link " to="https://mindfullmuscle-k8e5.onrender.com/">
+                    MindFullMuscle
+                  </Link>
+                </li>
+                <li>
                   <Link
                     className="nav-link end_menu"
                     id="login"
